@@ -1,0 +1,9 @@
+---
+### `requirements.txt`
+
+```txt
+requests
+urllib3
+beautifulsoup4
+pandas
+lxml
